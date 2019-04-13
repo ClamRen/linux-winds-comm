@@ -1,0 +1,2219 @@
+Apr 13, 2019 5:31:16 PM org.jnativehook.DefaultLibraryLocator getLibraries
+WARNING: Invalid library manifest!
+
+Apr 13, 2019 5:31:16 PM org.jnativehook.DefaultLibraryLocator getLibraries
+INFO: Library extracted successfully: /tmp/libJNativeHook-70802F97E2F2AFE8672E4DD40234C630C5B56C6D.so (0x70802F97E2F2AFE8672E4DD40234C630C5B56C6D).
+
+Apr 13, 2019 5:31:16 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_auto_repeat_rate [241]: XkbGetAutoRepeatRate: 30.
+
+Apr 13, 2019 5:31:16 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_auto_repeat_delay [287]: XkbGetAutoRepeatRate: 500.
+
+Apr 13, 2019 5:31:16 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_acceleration_multiplier [328]: XGetPointerControl: 1.
+
+Apr 13, 2019 5:31:16 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_acceleration_threshold [350]: XGetPointerControl: 4.
+
+Apr 13, 2019 5:31:16 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_sensitivity [372]: XGetPointerControl: 2.
+
+Apr 13, 2019 5:31:16 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_multi_click_time [399]: XtGetMultiClickTime: 200.
+
+Apr 13, 2019 5:31:16 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_run [724]: XRecord version: 1.13.
+
+Apr 13, 2019 5:31:19 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X26 pressed. (0X6C)
+
+Key Pressed: L
+--------------------press:[L]
+Apr 13, 2019 5:31:19 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (l)
+
+Apr 13, 2019 5:31:19 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X26 released. (0X6C)
+
+Apr 13, 2019 5:31:19 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X26 pressed. (0X6C)
+
+Key Pressed: L
+--------------------press:[L]
+Apr 13, 2019 5:31:19 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (l)
+
+Apr 13, 2019 5:31:19 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X26 released. (0X6C)
+
+Apr 13, 2019 5:31:19 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Apr 13, 2019 5:31:19 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:31:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X14 pressed. (0X74)
+
+Key Pressed: T
+--------------------press:[T]
+Apr 13, 2019 5:31:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (t)
+
+Apr 13, 2019 5:31:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X14 released. (0X74)
+
+Apr 13, 2019 5:31:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1E pressed. (0X61)
+
+Key Pressed: A
+--------------------press:[A]
+Apr 13, 2019 5:31:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (a)
+
+Apr 13, 2019 5:31:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X17 pressed. (0X69)
+
+Key Pressed: I
+--------------------press:[A, I]
+Apr 13, 2019 5:31:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (i)
+
+Apr 13, 2019 5:31:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X17 released. (0X69)
+
+Apr 13, 2019 5:31:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1E released. (0X61)
+
+Apr 13, 2019 5:31:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X26 pressed. (0X6C)
+
+Key Pressed: L
+--------------------press:[L]
+Apr 13, 2019 5:31:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (l)
+
+Apr 13, 2019 5:31:22 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X26 released. (0X6C)
+
+Apr 13, 2019 5:31:22 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X39 pressed. (0X20)
+
+Key Pressed: Space
+--------------------press:[Space]
+Apr 13, 2019 5:31:22 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. ( )
+
+Apr 13, 2019 5:31:22 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X39 released. (0X20)
+
+Apr 13, 2019 5:31:22 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XC pressed. (0X2D)
+
+Key Pressed: Minus
+--------------------press:[Minus]
+Apr 13, 2019 5:31:22 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (-)
+
+Apr 13, 2019 5:31:22 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XC released. (0X2D)
+
+Apr 13, 2019 5:31:23 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X21 pressed. (0X66)
+
+Key Pressed: F
+--------------------press:[F]
+Apr 13, 2019 5:31:23 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (f)
+
+Apr 13, 2019 5:31:23 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X21 released. (0X66)
+
+Apr 13, 2019 5:31:23 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X39 pressed. (0X20)
+
+Key Pressed: Space
+--------------------press:[Space]
+Apr 13, 2019 5:31:23 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. ( )
+
+Apr 13, 2019 5:31:23 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X39 released. (0X20)
+
+Apr 13, 2019 5:31:24 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X31 pressed. (0X6E)
+
+Key Pressed: N
+--------------------press:[N]
+Apr 13, 2019 5:31:24 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (n)
+
+Apr 13, 2019 5:31:24 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X31 released. (0X6E)
+
+Apr 13, 2019 5:31:24 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X18 pressed. (0X6F)
+
+Key Pressed: O
+--------------------press:[O]
+Apr 13, 2019 5:31:24 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (o)
+
+Apr 13, 2019 5:31:24 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X18 released. (0X6F)
+
+Apr 13, 2019 5:31:24 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XF pressed. (0XFF09)
+
+Key Pressed: Tab
+--------------------press:[Tab]
+Apr 13, 2019 5:31:24 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XF released. (0XFF09)
+
+Apr 13, 2019 5:31:25 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:31:25 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:31:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1 pressed. (0XFF1B)
+
+Key Pressed: Escape
+--------------------press:[Escape]
+Apr 13, 2019 5:31:57 PM org.jnativehook.DefaultLibraryLocator getLibraries
+WARNING: Invalid library manifest!
+
+Apr 13, 2019 5:31:57 PM org.jnativehook.DefaultLibraryLocator getLibraries
+INFO: Library extracted successfully: /tmp/libJNativeHook-70802F97E2F2AFE8672E4DD40234C630C5B56C6D.so (0x70802F97E2F2AFE8672E4DD40234C630C5B56C6D).
+
+Apr 13, 2019 5:31:57 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_auto_repeat_rate [241]: XkbGetAutoRepeatRate: 30.
+
+Apr 13, 2019 5:31:57 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_auto_repeat_delay [287]: XkbGetAutoRepeatRate: 500.
+
+Apr 13, 2019 5:31:57 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_acceleration_multiplier [328]: XGetPointerControl: 1.
+
+Apr 13, 2019 5:31:57 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_acceleration_threshold [350]: XGetPointerControl: 4.
+
+Apr 13, 2019 5:31:57 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_sensitivity [372]: XGetPointerControl: 2.
+
+Apr 13, 2019 5:31:57 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_multi_click_time [399]: XtGetMultiClickTime: 200.
+
+Apr 13, 2019 5:31:57 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_run [724]: XRecord version: 1.13.
+
+Apr 13, 2019 5:31:59 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XE048 pressed. (0XFF52)
+
+Key Pressed: Up
+--------------------press:[Up]
+Apr 13, 2019 5:31:59 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XE048 released. (0XFF52)
+
+Apr 13, 2019 5:31:59 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XE048 pressed. (0XFF52)
+
+Key Pressed: Up
+--------------------press:[Up]
+Apr 13, 2019 5:31:59 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XE048 released. (0XFF52)
+
+Apr 13, 2019 5:31:59 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:31:59 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X20 pressed. (0X64)
+
+Key Pressed: D
+--------------------press:[D]
+Apr 13, 2019 5:32:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (d)
+
+Apr 13, 2019 5:32:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X20 released. (0X64)
+
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X23 pressed. (0X68)
+
+Key Pressed: H
+--------------------press:[H]
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (h)
+
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X23 released. (0X68)
+
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X12 pressed. (0X65)
+
+Key Pressed: E
+--------------------press:[E]
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (e)
+
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X12 released. (0X65)
+
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X26 pressed. (0X6C)
+
+Key Pressed: L
+--------------------press:[L]
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (l)
+
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X26 released. (0X6C)
+
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X26 pressed. (0X6C)
+
+Key Pressed: L
+--------------------press:[L]
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (l)
+
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X26 released. (0X6C)
+
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X18 pressed. (0X6F)
+
+Key Pressed: O
+--------------------press:[O]
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (o)
+
+Apr 13, 2019 5:32:05 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X18 released. (0X6F)
+
+Apr 13, 2019 5:32:12 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X20 pressed. (0X64)
+
+Key Pressed: D
+--------------------press:[D]
+Apr 13, 2019 5:32:12 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (d)
+
+Apr 13, 2019 5:32:12 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X20 released. (0X64)
+
+Apr 13, 2019 5:32:12 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:32:12 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:13 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:32:14 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:14 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:32:14 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:14 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:32:14 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:14 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:32:14 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:14 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:32:14 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:15 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:32:15 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:15 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:32:15 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:15 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:32:15 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:15 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:32:15 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:15 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:32:15 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:32:17 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X3B pressed. (0XFFBE)
+
+Key Pressed: F1
+--------------------press:[F1]
+Apr 13, 2019 5:32:17 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X3B released. (0XFFBE)
+
+Apr 13, 2019 5:32:19 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1 pressed. (0XFF1B)
+
+Key Pressed: Escape
+--------------------press:[Escape]
+Apr 13, 2019 5:32:41 PM org.jnativehook.DefaultLibraryLocator getLibraries
+WARNING: Invalid library manifest!
+
+Apr 13, 2019 5:32:41 PM org.jnativehook.DefaultLibraryLocator getLibraries
+INFO: Library extracted successfully: /tmp/libJNativeHook-70802F97E2F2AFE8672E4DD40234C630C5B56C6D.so (0x70802F97E2F2AFE8672E4DD40234C630C5B56C6D).
+
+Apr 13, 2019 5:32:41 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_auto_repeat_rate [241]: XkbGetAutoRepeatRate: 30.
+
+Apr 13, 2019 5:32:41 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_auto_repeat_delay [287]: XkbGetAutoRepeatRate: 500.
+
+Apr 13, 2019 5:32:41 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_acceleration_multiplier [328]: XGetPointerControl: 1.
+
+Apr 13, 2019 5:32:41 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_acceleration_threshold [350]: XGetPointerControl: 4.
+
+Apr 13, 2019 5:32:41 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_sensitivity [372]: XGetPointerControl: 2.
+
+Apr 13, 2019 5:32:41 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_multi_click_time [399]: XtGetMultiClickTime: 200.
+
+Apr 13, 2019 5:32:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_run [724]: XRecord version: 1.13.
+
+Apr 13, 2019 5:32:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XE048 pressed. (0XFF52)
+
+Key Pressed: Up
+--------------------press:[Up]
+Apr 13, 2019 5:32:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XE048 released. (0XFF52)
+
+Apr 13, 2019 5:32:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XE048 pressed. (0XFF52)
+
+Key Pressed: Up
+--------------------press:[Up]
+Apr 13, 2019 5:32:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XE048 released. (0XFF52)
+
+Apr 13, 2019 5:33:00 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XE37 pressed. (0XFF61)
+
+Key Pressed: Print Screen
+--------------------press:[Print Screen]
+Apr 13, 2019 5:33:00 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XE37 released. (0XFF61)
+
+Apr 13, 2019 5:33:03 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:33:03 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:33:07 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X58 pressed. (0XFFC9)
+
+Key Pressed: F12
+--------------------press:[F12]
+Apr 13, 2019 5:33:07 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X58 released. (0XFFC9)
+
+Apr 13, 2019 5:33:10 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X44 pressed. (0XFFC7)
+
+Key Pressed: F10
+--------------------press:[F10]
+Apr 13, 2019 5:33:10 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X44 released. (0XFFC7)
+
+Apr 13, 2019 5:33:12 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1 pressed. (0XFF1B)
+
+Key Pressed: Escape
+--------------------press:[Escape]
+Apr 13, 2019 5:34:58 PM org.jnativehook.DefaultLibraryLocator getLibraries
+WARNING: Invalid library manifest!
+
+Apr 13, 2019 5:34:58 PM org.jnativehook.DefaultLibraryLocator getLibraries
+INFO: Library extracted successfully: /tmp/libJNativeHook-70802F97E2F2AFE8672E4DD40234C630C5B56C6D.so (0x70802F97E2F2AFE8672E4DD40234C630C5B56C6D).
+
+Apr 13, 2019 5:34:58 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_auto_repeat_rate [241]: XkbGetAutoRepeatRate: 30.
+
+Apr 13, 2019 5:34:58 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_auto_repeat_delay [287]: XkbGetAutoRepeatRate: 500.
+
+Apr 13, 2019 5:34:58 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_acceleration_multiplier [328]: XGetPointerControl: 1.
+
+Apr 13, 2019 5:34:58 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_acceleration_threshold [350]: XGetPointerControl: 4.
+
+Apr 13, 2019 5:34:58 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_pointer_sensitivity [372]: XGetPointerControl: 2.
+
+Apr 13, 2019 5:34:58 PM java.lang.ClassLoader$NativeLibrary load
+INFO: hook_get_multi_click_time [399]: XtGetMultiClickTime: 200.
+
+Apr 13, 2019 5:34:58 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_run [724]: XRecord version: 1.13.
+
+Apr 13, 2019 5:35:00 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XE048 pressed. (0XFF52)
+
+Key Pressed: Up
+--------------------press:[Up]
+Apr 13, 2019 5:35:00 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XE048 released. (0XFF52)
+
+Apr 13, 2019 5:35:00 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XE048 pressed. (0XFF52)
+
+Key Pressed: Up
+--------------------press:[Up]
+Apr 13, 2019 5:35:00 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XE048 released. (0XFF52)
+
+Apr 13, 2019 5:35:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XE048 pressed. (0XFF52)
+
+Key Pressed: Up
+--------------------press:[Up]
+Apr 13, 2019 5:35:01 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XE048 released. (0XFF52)
+
+Apr 13, 2019 5:35:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:35:02 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:35:08 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XA pressed. (0X39)
+
+Key Pressed: 9
+--------------------press:[9]
+Apr 13, 2019 5:35:08 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (9)
+
+Apr 13, 2019 5:35:08 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XA released. (0X39)
+
+Apr 13, 2019 5:35:10 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X41 pressed. (0XFFC4)
+
+Key Pressed: F7
+--------------------press:[F7]
+Apr 13, 2019 5:35:10 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X41 released. (0XFFC4)
+
+Apr 13, 2019 5:35:13 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X3F pressed. (0XFFC2)
+
+Key Pressed: F5
+--------------------press:[F5]
+Apr 13, 2019 5:35:13 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X3F released. (0XFFC2)
+
+Apr 13, 2019 5:35:15 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X3E pressed. (0XFFC1)
+
+Key Pressed: F4
+--------------------press:[F4]
+Apr 13, 2019 5:35:16 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X3E released. (0XFFC1)
+
+Apr 13, 2019 5:35:18 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X3D pressed. (0XFFC0)
+
+Key Pressed: F3
+--------------------press:[F3]
+Apr 13, 2019 5:35:18 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X3D released. (0XFFC0)
+
+Apr 13, 2019 5:35:20 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X3C pressed. (0XFFBF)
+
+Key Pressed: F2
+--------------------press:[F2]
+Apr 13, 2019 5:35:20 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X3C released. (0XFFBF)
+
+Apr 13, 2019 5:35:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X3B pressed. (0XFFBE)
+
+Key Pressed: F1
+--------------------press:[F1]
+Apr 13, 2019 5:35:21 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X3B released. (0XFFBE)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1064, 803. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1064, 801. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1064, 792. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1062, 780. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1059, 772. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1054, 759. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1050, 747. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1045, 735. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1040, 724. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1038, 715. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1038, 709. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1039, 703. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1044, 695. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1052, 687. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1065, 678. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1080, 669. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1095, 660. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1114, 653. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1133, 648. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1152, 641. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1171, 634. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1190, 627. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1205, 618. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1220, 609. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1233, 598. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1244, 587. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1255, 574. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1262, 563. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1269, 552. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1274, 541. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1279, 532. (0)
+
+Apr 13, 2019 5:35:26 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1279, 527. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1279, 526. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1279, 524. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1279, 523. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1279, 521. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1278, 516. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1278, 513. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1276, 508. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1272, 501. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1266, 489. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1259, 477. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1251, 465. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1242, 452. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1235, 441. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1227, 431. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1220, 422. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1215, 420. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1211, 418. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1211, 417. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1211, 415. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1211, 412. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1210, 407. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1208, 398. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1206, 387. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1199, 375. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1193, 363. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1186, 348. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1179, 333. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1172, 320. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1167, 311. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1162, 302. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1160, 294. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1158, 289. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1156, 285. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1154, 283. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1154, 282. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1155, 282. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1156, 282. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1159, 282. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1163, 282. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1166, 282. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1167, 282. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1170, 283. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1172, 284. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1173, 285. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1175, 285. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1176, 285. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1178, 286. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1180, 286. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1181, 286. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1182, 286. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1183, 286. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1185, 287. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1186, 288. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1187, 288. (0)
+
+Apr 13, 2019 5:35:27 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1188, 288. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1190, 288. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1191, 288. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1192, 288. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1193, 288. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1195, 288. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1196, 288. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1197, 288. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1198, 287. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1200, 286. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [489]: Button 1  pressed 1 time(s). (1200, 286)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [561]: Button 1 released 1 time(s). (1200, 286)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [596]: Button 1 clicked 1 time(s). (1200, 286)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_get_multi_click_time [399]: XtGetMultiClickTime: 200.
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_get_multi_click_time [399]: XtGetMultiClickTime: 200.
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1200, 287. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1200, 288. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1200, 289. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1199, 291. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1198, 292. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1198, 294. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1197, 295. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1197, 296. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1196, 298. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1195, 299. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1194, 300. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1193, 301. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1192, 303. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1191, 305. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1190, 306. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1189, 309. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1188, 310. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1188, 311. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1187, 313. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1187, 314. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1186, 316. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1185, 317. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1185, 319. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1185, 320. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1185, 321. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1184, 323. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1184, 324. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1183, 325. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1182, 326. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1181, 328. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1179, 331. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1178, 333. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1178, 336. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1177, 338. (0)
+
+Apr 13, 2019 5:35:28 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1178, 342. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1178, 346. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1179, 349. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1180, 352. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1181, 356. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1182, 359. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1183, 363. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1184, 366. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1185, 369. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1185, 373. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1186, 376. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1186, 379. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1188, 384. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1190, 389. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1192, 393. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1194, 397. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1196, 399. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1197, 402. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1198, 403. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1199, 404. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1201, 407. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1202, 408. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1204, 409. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1205, 411. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1207, 412. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1210, 414. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1212, 417. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1214, 418. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1215, 419. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1216, 420. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1218, 420. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1219, 421. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1220, 422. (0)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_get_multi_click_time [399]: XtGetMultiClickTime: 200.
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [489]: Button 1  pressed 1 time(s). (1220, 422)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [561]: Button 1 released 1 time(s). (1220, 422)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [596]: Button 1 clicked 1 time(s). (1220, 422)
+
+Apr 13, 2019 5:35:29 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_get_multi_click_time [399]: XtGetMultiClickTime: 200.
+
+Apr 13, 2019 5:35:30 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [396]: Mouse wheel type 1, rotated 3 units at 1220, 422.
+
+Apr 13, 2019 5:35:30 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [396]: Mouse wheel type 1, rotated 3 units at 1220, 422.
+
+Apr 13, 2019 5:35:30 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [396]: Mouse wheel type 1, rotated 3 units at 1220, 422.
+
+Apr 13, 2019 5:35:30 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_get_multi_click_time [399]: XtGetMultiClickTime: 200.
+
+Apr 13, 2019 5:35:30 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1224, 426. (0)
+
+Apr 13, 2019 5:35:30 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [396]: Mouse wheel type 1, rotated 3 units at 1224, 426.
+
+Apr 13, 2019 5:35:30 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_get_multi_click_time [399]: XtGetMultiClickTime: 200.
+
+Apr 13, 2019 5:35:30 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1225, 429. (0)
+
+Apr 13, 2019 5:35:30 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1226, 430. (0)
+
+Apr 13, 2019 5:35:40 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1229, 429. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1231, 428. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1233, 425. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1244, 413. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1261, 390. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1288, 359. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1327, 322. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1368, 279. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1409, 236. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1450, 193. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1489, 156. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1524, 121. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1557, 88. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1588, 59. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1617, 34. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1646, 15. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1673, 6. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1694, 9. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1709, 18. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1722, 27. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1733, 34. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1742, 39. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1747, 32. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1751, 11. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1746, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1737, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1724, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1713, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1713, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1736, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1785, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1862, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1919, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1919, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1919, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1919, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1919, 0. (0)
+
+Apr 13, 2019 5:35:41 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1919, 0. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1919, 0. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1919, 0. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1917, 1. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1914, 2. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1906, 6. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1900, 11. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1896, 17. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1891, 23. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1890, 28. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1888, 31. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1886, 31. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1883, 31. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1878, 31. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1873, 33. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1867, 34. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1862, 38. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1856, 44. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1850, 52. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1845, 60. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1841, 70. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1839, 84. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1834, 101. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1829, 121. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1818, 148. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1805, 177. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1790, 206. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1775, 235. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1756, 264. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1731, 293. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1706, 322. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1683, 349. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1662, 374. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1643, 395. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1626, 414. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1609, 431. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1592, 448. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1575, 463. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1558, 476. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1543, 487. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1532, 494. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1521, 499. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1510, 504. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1501, 509. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1494, 514. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1487, 519. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1483, 521. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1477, 523. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1470, 526. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1461, 528. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1448, 530. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1436, 532. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1424, 533. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1411, 533. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1397, 533. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1383, 535. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1367, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1350, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1337, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1322, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1307, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1292, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1281, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1270, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1261, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1253, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1244, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1233, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1216, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1193, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1164, 537. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1133, 535. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1102, 532. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1073, 530. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1044, 528. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1019, 526. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1000, 523. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 985, 523. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 976, 526. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 974, 531. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 974, 539. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 974, 549. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 974, 561. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 976, 574. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 979, 587. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 981, 600. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 981, 609. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 974, 614. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 961, 614. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 940, 614. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 917, 612. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 892, 610. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 865, 607. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 838, 602. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 811, 595. (0)
+
+Apr 13, 2019 5:35:42 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 786, 588. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 776, 581. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 775, 579. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 773, 576. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 768, 571. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 764, 565. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 762, 560. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 761, 554. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 759, 549. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 755, 545. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 749, 539. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 742, 533. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 735, 529. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 729, 528. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 728, 526. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 730, 525. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 732, 525. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 735, 525. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 737, 525. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 740, 525. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 742, 525. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 745, 525. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 747, 525. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 749, 524. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 750, 523. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 752, 522. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 755, 521. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 757, 520. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 760, 520. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 762, 520. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 764, 519. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 765, 518. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 767, 517. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 770, 517. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 772, 517. (0)
+
+Apr 13, 2019 5:35:43 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 775, 517. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 776, 516. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 778, 515. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 780, 515. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 782, 515. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 785, 515. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 786, 514. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 788, 513. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 790, 512. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 792, 512. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 794, 511. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 795, 510. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 796, 511. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 797, 513. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 798, 514. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 799, 515. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 799, 517. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 799, 520. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 799, 522. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 800, 524. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 801, 525. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 802, 527. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 802, 531. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 802, 535. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 802, 539. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 803, 543. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 808, 553. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 818, 567. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 831, 582. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 844, 597. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 857, 614. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 872, 631. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 887, 650. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 906, 669. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 927, 688. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 950, 707. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 973, 724. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 996, 737. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1017, 744. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1036, 749. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1053, 749. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1070, 749. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1087, 749. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1104, 746. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1117, 743. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1130, 741. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1137, 738. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1142, 735. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1145, 735. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1147, 734. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1150, 733. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1153, 732. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1162, 725. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1187, 703. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1222, 672. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1259, 645. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1288, 634. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1303, 632. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1312, 632. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1316, 632. (0)
+
+Apr 13, 2019 5:35:44 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1320, 632. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1321, 631. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1322, 629. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1322, 626. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1322, 624. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1322, 621. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1322, 619. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1323, 616. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1324, 614. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1325, 612. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1326, 611. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1328, 609. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1330, 606. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1332, 604. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1335, 602. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1336, 601. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1338, 600. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1340, 598. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1342, 597. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1344, 596. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1345, 595. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1347, 593. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1350, 592. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1351, 591. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1353, 590. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1355, 588. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1357, 587. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1359, 586. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1360, 585. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1361, 583. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1363, 582. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1365, 582. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1366, 581. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1368, 580. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1370, 579. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1371, 578. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1373, 577. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1375, 577. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1376, 576. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1378, 575. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1380, 574. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1381, 573. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1383, 572. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1385, 572. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1387, 571. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1390, 570. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1391, 568. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1393, 567. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1395, 567. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1396, 566. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1398, 565. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1400, 564. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1401, 563. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1403, 562. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1404, 561. (0)
+
+Apr 13, 2019 5:35:45 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1405, 560. (0)
+
+Apr 13, 2019 5:35:46 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1407, 558. (0)
+
+Apr 13, 2019 5:35:46 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1410, 557. (0)
+
+Apr 13, 2019 5:35:46 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1412, 556. (0)
+
+Apr 13, 2019 5:35:46 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1415, 555. (0)
+
+Apr 13, 2019 5:35:46 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1416, 553. (0)
+
+Apr 13, 2019 5:35:46 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1418, 552. (0)
+
+Apr 13, 2019 5:35:46 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1419, 551. (0)
+
+Apr 13, 2019 5:35:46 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1420, 549. (0)
+
+Apr 13, 2019 5:35:46 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1422, 547. (0)
+
+Apr 13, 2019 5:35:46 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1424, 546. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1425, 544. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1427, 542. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1429, 541. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1430, 540. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1431, 538. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1433, 537. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1434, 536. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1435, 535. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1436, 533. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1438, 532. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1440, 532. (0)
+
+Apr 13, 2019 5:35:47 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1441, 531. (0)
+
+Apr 13, 2019 5:35:48 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1443, 530. (0)
+
+Apr 13, 2019 5:35:48 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1444, 528. (0)
+
+Apr 13, 2019 5:35:48 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1445, 526. (0)
+
+Apr 13, 2019 5:35:48 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1446, 524. (0)
+
+Apr 13, 2019 5:35:49 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1448, 522. (0)
+
+Apr 13, 2019 5:35:49 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1449, 521. (0)
+
+Apr 13, 2019 5:35:49 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1450, 520. (0)
+
+Apr 13, 2019 5:35:50 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1451, 518. (0)
+
+Apr 13, 2019 5:35:50 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1452, 516. (0)
+
+Apr 13, 2019 5:35:50 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1452, 514. (0)
+
+Apr 13, 2019 5:35:50 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1452, 511. (0)
+
+Apr 13, 2019 5:35:50 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1452, 509. (0)
+
+Apr 13, 2019 5:35:50 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1452, 506. (0)
+
+Apr 13, 2019 5:35:50 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1453, 505. (0)
+
+Apr 13, 2019 5:35:50 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1454, 503. (0)
+
+Apr 13, 2019 5:35:50 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1453, 502. (0)
+
+Apr 13, 2019 5:35:50 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [654]: Mouse moved to 1452, 503. (0)
+
+Apr 13, 2019 5:35:54 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1D pressed. (0XFFE3)
+
+Key Pressed: Left Control
+--------------------press:[Left Control]
+Apr 13, 2019 5:35:55 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X2E pressed. (0X63)
+
+Key Pressed: C
+--------------------press:[C, Left Control]
+Apr 13, 2019 5:35:55 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (c)
+
+Apr 13, 2019 5:35:55 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1D released. (0XFFE3)
+
+Apr 13, 2019 5:35:55 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X2E released. (0X63)
+
+Apr 13, 2019 5:35:57 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X31 pressed. (0X6E)
+
+Key Pressed: N
+--------------------press:[N]
+Apr 13, 2019 5:35:57 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (n)
+
+Apr 13, 2019 5:35:57 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X31 released. (0X6E)
+
+Apr 13, 2019 5:35:57 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XE pressed. (0XFF08)
+
+Key Pressed: Backspace
+--------------------press:[Backspace]
+Apr 13, 2019 5:35:57 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XE released. (0XFF08)
+
+Apr 13, 2019 5:35:57 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0XE pressed. (0XFF08)
+
+Key Pressed: Backspace
+--------------------press:[Backspace]
+Apr 13, 2019 5:35:57 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0XE released. (0XFF08)
+
+Apr 13, 2019 5:35:58 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X24 pressed. (0X6A)
+
+Key Pressed: J
+--------------------press:[J]
+Apr 13, 2019 5:35:58 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (j)
+
+Apr 13, 2019 5:35:58 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X24 released. (0X6A)
+
+Apr 13, 2019 5:35:58 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X19 pressed. (0X70)
+
+Key Pressed: P
+--------------------press:[P]
+Apr 13, 2019 5:35:58 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (p)
+
+Apr 13, 2019 5:35:58 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X19 released. (0X70)
+
+Apr 13, 2019 5:35:58 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1F pressed. (0X73)
+
+Key Pressed: S
+--------------------press:[S]
+Apr 13, 2019 5:35:58 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [293]: Key 0 typed. (s)
+
+Apr 13, 2019 5:35:58 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1F released. (0X73)
+
+Apr 13, 2019 5:35:59 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1C pressed. (0XFF0D)
+
+Key Pressed: Enter
+--------------------press:[Enter]
+Apr 13, 2019 5:35:59 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [329]: Key 0X1C released. (0XFF0D)
+
+Apr 13, 2019 5:36:04 PM org.jnativehook.GlobalScreen$NativeHookThread enable
+INFO: hook_event_proc [266]: Key 0X1 pressed. (0XFF1B)
+
+Key Pressed: Escape
+--------------------press:[Escape]
